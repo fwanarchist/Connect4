@@ -19,9 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{FF9C97DB-D3E7-498D-9C5C-F191570F1C08}</ProjectGuid>
+    <ProjectGuid>{D230552B-1C18-4205-8B64-CC719AEDB3BF}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>Connect4</RootNamespace>
+    <RootNamespace>Connect420</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -149,7 +149,6 @@
     <ClInclude Include="Game.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Game.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
